@@ -1,4 +1,5 @@
 # 👋 Hola, soy Joel Yael Perez Witrago
+![Uploading image.png…]()
 
 🎓 Estudiante de **Ingeniería en Mecatrónica** en la **Universidad Tecnológica de la Mixteca (UTM)**, actualmente cursando el **7° semestre**.
 
